@@ -4,7 +4,7 @@
 
 ### Building thoughtful digital experiences, one purposeful detail at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Rana-Zayan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranazayan.online)
 [![GitHub](https://img.shields.io/badge/GitHub-Rana--Zayan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rana-Zayan)
 [![Profile views](https://komarev.com/ghpvc/?username=Rana-Zayan&style=for-the-badge&color=111111&label=PROFILE+VIEWS)](https://github.com/Rana-Zayan)
 
@@ -14,7 +14,7 @@
 
 ## About me
 
-I’m **Rana Zayan** — a developer focused on turning ideas into clean, useful, and memorable digital products. I care about the craft behind great software: clear thinking, polished interfaces, maintainable code, and experiences that feel effortless to use.
+I’m **Rana Zayan** — CEO of **Zee4Tech** and a developer focused on turning ideas into clean, useful, and memorable digital products. I care about the craft behind great software: clear thinking, polished interfaces, maintainable code, and experiences that feel effortless to use.
 
 - Crafting products with intention and attention to detail
 - Exploring modern tools, creative technology, and practical solutions
